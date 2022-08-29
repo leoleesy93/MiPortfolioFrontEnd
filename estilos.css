@@ -1,0 +1,50 @@
+.contenedor-header{
+    background-color: rgb(45, 47, 184);
+    height: 10ch;
+}
+
+.logo-AP{
+    height: 10ch;
+}
+#Logo-AP{
+    height: 10ch;
+}
+.redes{
+    background-color: blue;
+}
+#Logo-FB{
+    height: 5ch;
+    background-color: rgb(45, 47, 184);
+    position: fixed;
+    right: 16.5ch;
+    top: 3.5ch;
+}
+#Logo-IG{
+    height: 5ch;
+    background-color: rgb(45, 47, 184);
+    position: fixed;
+    right: 11.5ch;
+    top: 3.5ch;
+}
+#Logo-GH{
+    height: 5ch;
+    background-color: rgb(45, 47, 184);
+    position: fixed;
+    right: 6.5ch;
+    top: 3.5ch;
+}
+#Logo-LK{
+    height: 5ch;
+    background-color: rgb(45, 47, 184);
+    position: fixed;
+    right: 1.5ch;
+    top: 3.5ch;
+}
+.redes h1{
+    color: white;
+}
+
+.contenedor-presentacion{
+    background-color: beige;
+}
+
